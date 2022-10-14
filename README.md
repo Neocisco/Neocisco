@@ -39,3 +39,4 @@
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-francisco.pezzente@yahoo.com.ar-D14836?style=flat&logo=Yahoo&logoColor=white)](mailto:francisco.pezzente@yahoo.com.ar)
 [![telegram](https://img.shields.io/badge/-@Cisco-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/CiscoKidz)
+[![whatsapp](https://img.shields.io/badge/-@Cisco-0e3e55?style=flat&logo=Whatsapp&logoColor=green)](https://wa.link/n4xi7i)
